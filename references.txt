@@ -1,0 +1,21 @@
+SECTION 1 – Impact of Emerging Technologies
+
+1. Title: Google’s Emissions Climb nearly 50% In Five Years Due To AI Energy Demand
+Link: https://www.theguardian.com/technology/article/2024/jul/02/google-ai-emissions
+
+2. Title: 'We haven't ​seen them disclosing enough ⁠about their water consumption (and the) impact on the local community': Amazon, Microsoft, Google And More Pressed On Data Center Water And Power Use
+Link: https://www.techradar.com/pro/we-havent-seen-them-disclosing-enough-about-their-water-consumption-and-the-impact-on-the-local-community-amazon-microsoft-google-and-more-pressed-on-data-center-water-and-power-use
+
+3. Title: Environmental Burden of United States Data Centers In The Artificial Intelligence Era
+Link: https://arxiv.org/abs/2411.09786
+
+SECTION 2 – Sustainable Solutions by Software Makers
+
+1. Title: Sustainable By Design: Advancing The Sustainability of AI
+Link: https://blogs.microsoft.com/blog/2024/04/02/sustainable-by-design-advancing-the-sustainability-of-ai/
+
+2. Title: Our 2024 Environmental Sustainability Report
+Link: https://blogs.microsoft.com/on-the-issues/2024/05/15/microsoft-environmental-sustainability-report-2024/
+
+3. Title: AI Sustainability: How Microsoft, Google Cloud, IBM & Dell Are Working On Reducing AI’s Climate Harms
+Link: https://www.techrepublic.com/article/tech-giants-ai-sustainability/
